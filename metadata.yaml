@@ -1,0 +1,30 @@
+_repo: Phantom-Duel_67392
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Stallman, Emmanuel
+    alias: Stallman, Manny
+    birthdate: 1927
+    deathdate: 1997
+    gutenberg_agent_id: '54003'
+    url: http://www.gutenberg.org/2009/agents/54003
+creator:
+  author:
+    agent_name: McCormack, Ford
+    gutenberg_agent_id: '54248'
+    url: http://www.gutenberg.org/2009/agents/54248
+description: ''
+gutenberg_issued: '2022-02-13'
+identifiers:
+  gutenberg: '67392'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Adventure stories'
+- GITenberg
+title: Phantom Duel
+url: http://www.gutenberg.org/ebooks/67392
