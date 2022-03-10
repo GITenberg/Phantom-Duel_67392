@@ -8,12 +8,17 @@ contributor:
     deathdate: 1997
     gutenberg_agent_id: '54003'
     url: http://www.gutenberg.org/2009/agents/54003
+covers:
+- cover_type: archival
+  image_path: 67392-h/images/cover.jpg
 creator:
   author:
     agent_name: McCormack, Ford
     gutenberg_agent_id: '54248'
     url: http://www.gutenberg.org/2009/agents/54248
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67392#Phantom-Duel
 gutenberg_issued: '2022-02-13'
 identifiers:
   gutenberg: '67392'
